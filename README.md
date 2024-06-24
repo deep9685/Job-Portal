@@ -30,17 +30,20 @@ and application management.
 ### Installation
 
 1. Clone the repository:
-```git clone https://github.com/yourusername/react-jobs.git
-   cd react-jobs
+```
+git clone https://github.com/yourusername/react-jobs.git
+cd react-jobs
 ```
 
 2. Install dependencies:
-```npm install
+```
+npm install
 ```
 
 3. Start the JSON server and development server:
-```npm run server
-   npm run dev
+```
+npm run server
+npm run dev
 ```
 
 ## Scripts
